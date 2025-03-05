@@ -13,3 +13,4 @@
 </p>
 
 ## Languages and tools
+[![My Skills](https://skillicons.dev/icons?i=csharp,cpp,c,python,linux,html,css,js,rider,visualstudio)](https://skillicons.dev)
