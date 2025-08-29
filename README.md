@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Michał</h1>
 
 ## Projects
+- [piotrprzybyszdev/Path-Tracing](https://github.com/piotrprzybyszdev/Path-Tracing) (group project) - Currently working on path tracing app written in Vulkan - engineering thesis
 - [OpenGL](https://github.com/Popke523/OpenGL) - A 3D scene with models, Phong reflection and tesselation using OpenGL
 - [PoZiomka](https://github.com/piotrprzybyszdev/Software-Engineering-2-PoZiomka) - System for allocating students to dormitories based on their preferences written in ASP.NET and Angular. (group project, working on the backend)
 - [RaycastingOfSpheres](https://github.com/Popke523/RaycastingOfSpheres) - Ray casting of spheres implemented in CUDA using Phong reflection model
