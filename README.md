@@ -2,8 +2,9 @@
 
 ## Projects
 - [OpenGL](https://github.com/Popke523/OpenGL) - A 3D scene with models, Phong reflection and tesselation using OpenGL
-- [Rybki](https://github.com/Popke523/Rybki) - A 3D shoal of fish animation using the boids algorithm, OpenGL for rendering and CUDA for parallel processing.
+- [PoZiomka](https://github.com/piotrprzybyszdev/Software-Engineering-2-PoZiomka) - System for allocating students to dormitories based on their preferences written in ASP.NET and Angular. (group project, working on the backend)
 - [RaycastingOfSpheres](https://github.com/Popke523/RaycastingOfSpheres) - Ray casting of spheres implemented in CUDA using Phong reflection model
+- [Rybki](https://github.com/Popke523/Rybki) - A 3D shoal of fish animation using the boids algorithm, OpenGL for rendering and CUDA for parallel processing.
 - [pietraldo/car_rent_api](https://github.com/pietraldo/car_rent_api) and [pietraldo/car_rent_search_engine](https://github.com/pietraldo/car_rent_search_engine) (group project) - Car rental web app written in ASP.NET and React
 - [ObjectOrientedDesign](https://github.com/Popke523/ObjectOrientedDesign) - Flight tracker in .NET
 
